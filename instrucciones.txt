@@ -1,0 +1,44 @@
+/***************************************************
+*	Desarrolladora: Tatiana Pastorini
+*	Grado en Ingeniería Informática, UGR, ETSIIT.
+*	Práctica 3. Modelos jerárquicos.
+***************************************************
+
+Instrucciones de uso.
+
+Compilar con make
+Ejecutar con ./practica1
+
+[ A ]: Modo ajedrez
+[ S ]: Modo sólido
+[ L ]: Modo alambre
+[ P ]: Modo puntos
+
+[ 1 ]: Pintar Pirámide
+[ 2 ]: Pintar Cubo
+[ 3 ]: Pintar PLY
+[ 4 ]: Pintar Revolución
+[ 5 ]: Pintar Android
+
+/* MOVIMIENTOS DEL ANDROID */
+
+[ X ]: Girar la cabeza a la derecha
+[ Z ]: Girar la cabeza a la izquierda
+
+[ I ]: Estirar antenas
+[ U ]: Encoger antenas
+
+[ V ]: Mover antena izquierda a la derecha
+[ C ]: Mover antena izquierda a la izquierda
+
+[ N ]: Mover antena derecha a la derecha
+[ B ]: Mover antena derecha a la izquierda
+
+[ F ]: Girar cintura a la derecha
+[ D ]: Girar cintura a la izquierda
+
+[ H ]: Subir brazo izquierdo
+[ G ]: Bajar brazo izquierdo
+
+[ K ]: Subir brazo derecho
+[ J ]: Bajar brazo derecho
